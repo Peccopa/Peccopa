@@ -24,6 +24,14 @@ ___
 - https://peccopa.github.io/javascript-ru/dices-game
 - ***JAVASCRIPT, CSS, HTML***
 ___
+## [php-mysql-ru: the-cafe](https://github.com/Peccopa/php-mysql-ru/tree/main)
+[<img src="https://peccopa.github.io/php-mysql-ru/the-cafe.gif">](http://f0817755.xsph.ru/)
+>Responsive design, modal windows, carousel, active tabs,  
+>interactive map, validation form, ~~registration~~
+- http://f0817755.xsph.ru/
+- ***MySQL, PHP, JAVASCRIPT, CSS, HTML***
+- ***jQuery:*** *SlickSlider*
+___
 ## [html-css-ru: uber-partners](https://github.com/Peccopa/html-css-ru/tree/uber-partners)
 [<img src="https://peccopa.github.io/html-css-ru/uber-partners/uber-partners.gif">](https://peccopa.github.io/html-css-ru/uber-partners/src/)
 >Responsive design, burger menu
