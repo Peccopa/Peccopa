@@ -1,9 +1,3 @@
-## [javascript-ru: dices-game](https://github.com/Peccopa/javascript-ru/tree/dices-game)
-![2024-04-26](https://peccopa.github.io/javascript-ru/dices-game/dices-game.jpg)
->Practicing skills: DOM
-- https://peccopa.github.io/javascript-ru/dices-game
-- ***JAVASCRIPT, CSS, HTML***
-___
 ## [html-css-ru: run-smart](https://github.com/Peccopa/html-css-ru/tree/run-smart)
 ![2024-04-10](https://github.com/Peccopa/wordpress-ru/assets/119999253/785672e7-2f11-42d9-86f2-987312c1b0b4)
 >Responsive design, modal windows, carousel, active tabs,  
@@ -23,6 +17,12 @@ ___
 - ***JAVASCRIPT, CSS(SASS), HTML(BEM)***
 - ***GULP:*** *Browser-Sync, AutoPrefixer, Clean-CSS, Rename, HTMLmin, Imagemin*
 - *Figma(Pixso)*
+___
+## [javascript-ru: dices-game](https://github.com/Peccopa/javascript-ru/tree/dices-game)
+![2024-04-26](https://peccopa.github.io/javascript-ru/dices-game/dices-game.jpg)
+>Practicing skills: DOM
+- https://peccopa.github.io/javascript-ru/dices-game
+- ***JAVASCRIPT, CSS, HTML***
 ___
 ## [javascript-ru: guess-number](https://github.com/Peccopa/javascript-ru/tree/guess-number)
 ![2024-04-11](https://github.com/Peccopa/javascript-ru/assets/119999253/deb73192-1e95-45a4-82fb-ff1f869eb223)
