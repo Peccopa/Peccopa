@@ -1,5 +1,5 @@
 ## [html-css-ru: run-smart](https://github.com/Peccopa/html-css-ru/tree/run-smart)
-![2024-04-10](https://github.com/Peccopa/wordpress-ru/assets/119999253/785672e7-2f11-42d9-86f2-987312c1b0b4)
+[<img src="https://github.com/Peccopa/wordpress-ru/assets/119999253/785672e7-2f11-42d9-86f2-987312c1b0b4">](https://peccopa.github.io/html-css-ru/run-smart/dist)
 >Responsive design, modal windows, carousel, active tabs,  
 >interactive map, validation form, mailer
  - https://peccopa.github.io/html-css-ru/run-smart/dist
