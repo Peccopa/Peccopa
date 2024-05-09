@@ -54,13 +54,6 @@ ___
 - *Figma(Pixso), PixelPerfect*
 - *LocalStorage*
 ___
-## [rsschool: css-meme-slider](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/css-meme-slider)
-[<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/css-meme-slider/css-meme-slider.jpg">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/css-meme-slider/)
->CSS only slider  
->(Google Chrome only)
-- https://peccopa.github.io/RSSchool-2023Q2-Stage-0/css-meme-slider/
-- ***CSS, HTML***
-___
 ## [html-css-ru: run-smart](https://github.com/Peccopa/html-css-ru/tree/run-smart)
 [<img src="https://peccopa.github.io/html-css-ru/run-smart/run-smart.gif">](https://peccopa.github.io/html-css-ru/run-smart/dist)
 >Responsive design, modal windows, carousel, active tabs,  
@@ -121,6 +114,13 @@ ___
 >UI-Components, active cross/Esc, overlay missclick
 - https://peccopa.github.io/javascript-ru/modal-window
 - ***JAVASCRIPT, CSS, HTML***
+___
+## [rsschool: css-meme-slider](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/css-meme-slider)
+[<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/css-meme-slider/css-meme-slider.jpg">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/css-meme-slider/)
+>CSS only slider  
+>(Google Chrome only)
+- https://peccopa.github.io/RSSchool-2023Q2-Stage-0/css-meme-slider/
+- ***CSS, HTML***
 ___
 ## [html-css-ru: simple-page](https://github.com/Peccopa/html-css-ru/tree/simple-page)
 [<img src="https://peccopa.github.io/html-css-ru/simple-page/simple-page.jpg">](https://peccopa.github.io/html-css-ru/simple-page/)
