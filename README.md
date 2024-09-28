@@ -1,8 +1,8 @@
 ## [rsschool: shelter](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/shelter)
-[<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/shelter.gif">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/)
+[<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/shelter.gif">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/index.html)
 >Responsive design, popup, pagination,  
 >buger, favicon, carousel, preloader
-- https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/
+- https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/index.html
 - ***JAVASCRIPT, CSS(SASS), HTML(BEM)***
 - *modules, classes, JSON*
 - *Webpack, Figma(Pixso), PixelPerfect*
