@@ -23,13 +23,6 @@ ___
 - ***JAVASCRIPT, CSS, HTML***
 - *LocalStorage*
 ___
-## [rsschool: hangman](https://github.com/Peccopa/RSSchool-2023Q4-Stage-1/tree/hangman)
-[<img src="https://peccopa.github.io/RSSchool-2023Q4-Stage-1/hangman/hangman.jpg">](https://peccopa.github.io/RSSchool-2023Q4-Stage-1/hangman)
->Responsive design, generated DOM elements,  
->virtual keyboard, modal window
-- https://peccopa.github.io/RSSchool-2023Q4-Stage-1/hangman/
-- ***JAVASCRIPT, CSS, HTML***
-___
 ## [rsschool: random-game](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/random-game)
 [<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/random-game/random-game.jpg">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/random-game/)
 >Start game/end, score window, ~~preloader~~  
@@ -82,6 +75,13 @@ ___
 - ***JAVASCRIPT, CSS(SASS), HTML(BEM)***
 - ***GULP:*** *Browser-Sync, AutoPrefixer, Clean-CSS, Rename, HTMLmin, Imagemin*
 - *Figma(Pixso)*
+___
+## [rsschool: hangman](https://github.com/Peccopa/RSSchool-2023Q4-Stage-1/tree/hangman)
+[<img src="https://peccopa.github.io/RSSchool-2023Q4-Stage-1/hangman/hangman.jpg">](https://peccopa.github.io/RSSchool-2023Q4-Stage-1/hangman)
+>Responsive design, generated DOM elements,  
+>virtual keyboard, modal window
+- https://peccopa.github.io/RSSchool-2023Q4-Stage-1/hangman/
+- ***JAVASCRIPT, CSS, HTML***
 ___
 ## [javascript-ru: dices-game](https://github.com/Peccopa/javascript-ru/tree/dices-game)
 [<img src="https://peccopa.github.io/javascript-ru/dices-game/dices-game.jpg">](https://peccopa.github.io/javascript-ru/dices-game)
