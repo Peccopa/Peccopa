@@ -1,3 +1,18 @@
+[![NodeJS Badge](https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&labelColor=black&logo=Node.js&logoColor=5FA04E)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-3077c4?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3077c4)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f3de61)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=for-the-badge&labelColor=black&logo=css3&logoColor=553d7d)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=for-the-badge&labelColor=black&logo=html5&logoColor=e24c25)](#) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peccopa&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peccopa&theme=transparent)
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=0088cc&link=https://t.me/Bnz1905)](https://t.me/Bnz1905)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&link=mailto:orbital.logistics@yandex.ru)](mailto:orbital.logistics@yandex.ru)
+[![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
+  
+
 ## [rsschool: shelter](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/shelter)
 [<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/shelter.gif">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/index.html)
 >Responsive design, popup, pagination,  
