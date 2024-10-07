@@ -1,12 +1,32 @@
-[![NodeJS Badge](https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&labelColor=black&logo=Node.js&logoColor=5FA04E)](#)
+<!--[![NodeJS Badge](https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&labelColor=black&logo=Node.js&logoColor=5FA04E)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-3077c4?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3077c4)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f3de61)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=for-the-badge&labelColor=black&logo=css3&logoColor=553d7d)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=for-the-badge&labelColor=black&logo=html5&logoColor=e24c25)](#) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peccopa&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peccopa&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peccopa&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peccopa&theme=vision_friendly_dark)
+
+[![NodeJS Badge](https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&labelColor=172f45&logo=Node.js&logoColor=5FA04E)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=172f45&logo=react&logoColor=61DAFB)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-3077c4?style=for-the-badge&labelColor=172f45&logo=typescript&logoColor=3077c4)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=for-the-badge&labelColor=172f45&logo=javascript&logoColor=f3de61)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=for-the-badge&labelColor=172f45&logo=css3&logoColor=553d7d)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=for-the-badge&labelColor=172f45&logo=html5&logoColor=e24c25)](#) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peccopa&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peccopa&theme=prussian)-->
+
+[![NodeJS Badge](https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&labelColor=20232a&logo=Node.js&logoColor=5FA04E)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=20232a&logo=react&logoColor=61DAFB)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-3077c4?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=3077c4)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=for-the-badge&labelColor=20232a&logo=javascript&logoColor=f3de61)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=for-the-badge&labelColor=20232a&logo=css3&logoColor=553d7d)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=for-the-badge&labelColor=20232a&logo=html5&logoColor=e24c25)](#) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peccopa&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peccopa&theme=react)
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=0088cc&link=https://t.me/Bnz1905)](https://t.me/Bnz1905)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&link=mailto:orbital.logistics@yandex.ru)](mailto:orbital.logistics@yandex.ru)
