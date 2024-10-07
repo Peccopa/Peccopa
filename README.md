@@ -167,7 +167,7 @@ ___
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
 [![HTML Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat)](#)
-[![HTML Badge](https://img.shields.io/badge/-MySQL-#4479A1?style=flat)](#)
+[![HTML Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat)](#)
 - http://f0817755.xsph.ru/
 - ***jQuery:*** *SlickSlider, phpMyAdmin*
 ___
