@@ -28,8 +28,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peccopa&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peccopa&theme=react)
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white&labelColor=303133&link=https://t.me/Bnz1905)](https://t.me/Bnz1905)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Mail.ru&logoColor=white&labelColor=303133&link=mailto:orbital.logistics@yandex.ru)](mailto:orbital.logistics@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=303133&link=https://t.me/Bnz1905)](https://t.me/Bnz1905)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133&link=mailto:orbital.logistics@yandex.ru)](mailto:orbital.logistics@yandex.ru)
 [![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
   
 ___
