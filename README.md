@@ -33,7 +33,7 @@
 [![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
   
 ___
-## [rsschool: shelter](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/shelter/index.html)
+## [rsschool: shelter](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/shelter)
 [<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/shelter.gif">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/index.html)  
 >Responsive design, popup, pagination,  
 >buger, favicon, carousel, preloader  
