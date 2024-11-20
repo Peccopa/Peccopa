@@ -33,7 +33,7 @@
 [![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
   
 ___
-## [rsschool: shelter](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/shelter)
+## [rsschool: shelter](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/shelter/index.html)
 [<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/shelter.gif">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/index.html)  
 >Responsive design, popup, pagination,  
 >buger, favicon, carousel, preloader  
@@ -43,7 +43,7 @@ ___
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
 - https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/index.html
 - *SASS, BEM, Webpack, Figma(Pixso), PixelPerfect*
-- *modules, classes, JSON*
+- *Modules, Classes, JSON*
 ___
 ## [rsschool: coffee-house](https://github.com/Peccopa/RSSchool-2023Q4-Stage-1/tree/coffee-house-week3)
 [<img src="https://peccopa.github.io/RSSchool-2023Q4-Stage-1/coffee-house/coffee-house.gif">](https://peccopa.github.io/RSSchool-2023Q4-Stage-1/coffee-house/pages/main)
