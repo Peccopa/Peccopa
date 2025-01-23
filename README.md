@@ -33,7 +33,7 @@
 [![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
   
 ___
-## [rsschool: christmas-shop](https://github.com/Peccopa/RSSchool-2024Q2-Stage-2/tree/christmas-shop)
+## [rsschool: christmas-shop](https://github.com/Peccopa/RSSchool-2024Q2-Stage-2/tree/christmas-shop-part3)
 [<img src="christmas-shop/bandicam2025-01-2317-29-11-335-ezgif.com-video-to-gif-converter.gif">](https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop)  
 >Responsive design, popup, pagination,  
 >buger, favicon, carousel, preloader  
