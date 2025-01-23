@@ -33,6 +33,18 @@
 [![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
   
 ___
+## [rsschool: christmas-shop](https://github.com/Peccopa/RSSchool-2024Q2-Stage-2/tree/christmas-shop)
+[<img src="christmas-shop/bandicam2025-01-2317-29-11-335-ezgif.com-video-to-gif-converter.gif">](https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop)  
+>Responsive design, popup, pagination,  
+>buger, favicon, carousel, preloader  
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
+- https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/index.html
+- *SASS, BEM, Webpack, Figma(Pixso), PixelPerfect*
+- *Modules, Classes, JSON*
+___
 ## [rsschool: shelter](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/shelter)
 [<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/shelter.gif">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/index.html)  
 >Responsive design, popup, pagination,  
