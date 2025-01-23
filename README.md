@@ -41,7 +41,7 @@ ___
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
-- https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/index.html
+- https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop
 - *SASS, BEM, Webpack, Figma(Pixso), PixelPerfect*
 - *Modules, Classes, JSON*
 ___
