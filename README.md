@@ -57,6 +57,16 @@ ___
 - *Figma(Pixso), PixelPerfect*
 - *LocalStorage*
 ___
+## [rsschool: simon-says](https://github.com/Peccopa/RSSchool-2024Q4-Stage-2/tree/simon-says)
+[<img src="https://peccopa.github.io/RSSchool-2024Q4-Stage-2/simon-says/simon-says.jpg">](https://peccopa.github.io/RSSchool-2024Q4-Stage-2/simon-says)
+>Responsive design, generated DOM elements, classes
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
+- https://peccopa.github.io/RSSchool-2024Q4-Stage-2/simon-says
+- *LocalStorage*
+___
 ## [rsschool: nonograms](https://github.com/Peccopa/RSSchool-2023Q4-Stage-1/tree/nonograms)
 [<img src="https://peccopa.github.io/RSSchool-2023Q4-Stage-1/nonograms/nonograms.jpg">](https://peccopa.github.io/RSSchool-2023Q4-Stage-1/nonograms)
 >Responsive design, generated DOM elements
