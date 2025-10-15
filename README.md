@@ -45,7 +45,7 @@ ___
 [![SPA Badge](https://img.shields.io/badge/-SPA-green?style=flat)](#)
 - https://peccopa.github.io/rsschool-portfolio
 - *SPA Components, JS Modules, CSS Modules*
-- *no innerHTML, no querySelector, empty <body>*
+- *no innerHTML, no querySelector, empty \<body\>*
 - *Webpack, Babel, CommitLint, Husky, ESLint,*
 - *Sass, Canvas, Figma, PixelPerfect*
 ___
