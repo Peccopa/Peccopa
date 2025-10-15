@@ -32,6 +32,22 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133&link=mailto:orbital.logistics@yandex.ru)](mailto:orbital.logistics@yandex.ru)
 [![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
   
+
+___
+## [rsschool: portfolio](https://github.com/Peccopa/rsschool-portfolio)
+[<img src="https://github.com/user-attachments/assets/b0b8ff32-d555-4824-a009-3be05f6002fa">](https://peccopa.github.io/rsschool-portfolio)  
+>Responsive design, popup,  
+>buger, favicon, carousel  
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
+[![SPA Badge](https://img.shields.io/badge/-SPA-green?style=flat)](#)
+- https://peccopa.github.io/rsschool-portfolio
+- *SPA Components, JS Modules, CSS Modules*
+- *no innerHTML, no querySelector, empty <body>*
+- *Webpack, Babel, CommitLint, Husky, ESLint,*
+- *Sass, Canvas, Figma, PixelPerfect*
 ___
 ## [rsschool: christmas-shop](https://github.com/Peccopa/RSSchool-2024Q4-Stage-2/tree/christmas-shop-part3)
 [<img src="https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop/screen.gif">](https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop)  
