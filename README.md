@@ -33,6 +33,21 @@
 [![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
   
 
+
+
+
+___
+## [fullstack: pethub (in progress)](https://github.com/Peccopa/PetHub)
+[<img src="https://github.com/user-attachments/assets/67882494-adb4-41af-a93b-6b02e491905e">](https://pethub-o2ap.onrender.com/)  
+> permanently in development
+
+[![POSTGRE Badge](https://img.shields.io/badge/-POSTGRE-336791?style=flat)](#)
+[![NODE Badge](https://img.shields.io/badge/-NODE-339933?style=flat)](#)
+[![REACT Badge](https://img.shields.io/badge/-REACT-61DAFB?style=flat)](#)
+[![TYPEDCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
+- https://github.com/Peccopa/PetHub
+
+
 ___
 ## [rsschool: portfolio](https://github.com/Peccopa/rsschool-portfolio)
 [<img src="https://github.com/user-attachments/assets/b0b8ff32-d555-4824-a009-3be05f6002fa">](https://peccopa.github.io/rsschool-portfolio)  
