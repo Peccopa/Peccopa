@@ -38,14 +38,14 @@
 
 ___
 ## [fullstack: pethub (in progress)](https://github.com/Peccopa/PetHub)
-[<img src="https://github.com/user-attachments/assets/67882494-adb4-41af-a93b-6b02e491905e">](https://pethub-o2ap.onrender.com/)  
+[<img src="https://github.com/user-attachments/assets/67882494-adb4-41af-a93b-6b02e491905e">](https://pethub-o2ap.onrender.com)  
 > permanently in development
 
 [![POSTGRE Badge](https://img.shields.io/badge/-POSTGRE-336791?style=flat)](#)
 [![NODE Badge](https://img.shields.io/badge/-NODE-339933?style=flat)](#)
 [![REACT Badge](https://img.shields.io/badge/-REACT-61DAFB?style=flat)](#)
 [![TYPEDCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
-- https://github.com/Peccopa/PetHub
+- https://pethub-o2ap.onrender.com
 
 
 ___
