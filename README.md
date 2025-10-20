@@ -46,6 +46,11 @@ ___
 [![NODE Badge](https://img.shields.io/badge/-NODE-339933?style=flat)](#)
 [![POSTGRE Badge](https://img.shields.io/badge/-POSTGRE-336791?style=flat)](#)
 - https://pethub-o2ap.onrender.com/
+- Frontend | React 19, Webpack 5, Babel |
+- Backend | Node.js (http, fs, https, url), PostgreSQL, dotenv |
+- Database | PostgreSQL |
+- API Integration | Render REST API |
+- Infrastructure | Render.com, Docker, GitHub |
 
 
 ___
