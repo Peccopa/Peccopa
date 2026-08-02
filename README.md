@@ -80,12 +80,12 @@
 
   <h1 align="center">
       <a href="https://github.com/Peccopa/state-kit">State Kit</a>
-    </h1>
+  </h1>
 
 > Lightweight application state management library
 >
 > [![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
-> [![STATE Badge](https://img.shields.io/badge/-STATE-9C27B0?style=flat)](#)
+> [![STORE Badge](https://img.shields.io/badge/-STORE-9C27B0?style=flat)](#)
 > [![REDUCERS Badge](https://img.shields.io/badge/-REDUCERS-673AB7?style=flat)](#)
 > [![MIDDLEWARE Badge](https://img.shields.io/badge/-MIDDLEWARE-FF9800?style=flat)](#)
 > [![VITEST Badge](https://img.shields.io/badge/-VITEST-6E9F18?style=flat)](#)
@@ -95,7 +95,6 @@
 - Reducers • Middleware • Afterware
 - Async Dispatch Queue
 - TypeScript • Vitest • tsup • npm
-
     </td>
     </tr>
   </table>
