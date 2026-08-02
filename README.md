@@ -37,9 +37,6 @@
 
 ---
 
-
-
-
 <table width="100%" align="center">
   <tr>
     <td width="670" align="center">
@@ -52,7 +49,7 @@
 </h1>
 
 > Reusable UI component library
-> 
+>
 > [![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
 > [![DOM Badge](https://img.shields.io/badge/-DOM-E34F26?style=flat)](#)
 > [![EVENTS Badge](https://img.shields.io/badge/-EVENTS-FF9800?style=flat)](#)
@@ -64,28 +61,9 @@
 - DOM API • Events • Styling
 - Component Architecture
 - TypeScript • Vitest • tsup • npm
-
     </td>
-  </tr>
-</table>
-
----
-
-## [kit: Component Kit](https://github.com/Peccopa/component-kit)
-
-[<img width="320" height="180" alt="component-kit-small" src="https://github.com/user-attachments/assets/bcdbf4d1-754b-4724-8e6a-23b28a93561d" />](https://github.com/Peccopa/component-kit)
-
-> Reusable UI component library
-
-[![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
-[![DOM Badge](https://img.shields.io/badge/-DOM-E34F26?style=flat)](#)
-[![EVENTS Badge](https://img.shields.io/badge/-EVENTS-FF9800?style=flat)](#)
-[![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat)](#)
-
-- Reusable UI Components
-- DOM Manipulation, Events, Attributes, Styles
-- Component Hierarchy & Composition
-- TypeScript • Vitest • tsup • npm
+    </tr>
+  </table>
 
 ---
 
