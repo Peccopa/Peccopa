@@ -104,7 +104,7 @@
       <a href="https://github.com/Peccopa/state-kit">State Kit</a>
   </h1>
 
-> State management library
+> Application state management library
 >
 > [![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
 > [![STORE Badge](https://img.shields.io/badge/-STORE-9C27B0?style=flat)](#)
