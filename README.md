@@ -43,10 +43,10 @@
 > Multiplayer technical interview game
 >
 > [![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
-> [![NODE.JS Badge](https://img.shields.io/badge/-NODE.JS-5FA04E?style=flat)](#)
+> [![SOCKET.IO Badge](https://img.shields.io/badge/-SOCKET.IO-010101?style=flat)](#)
 > [![POSTGRESQL Badge](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=flat)](#)
 > [![STATE KIT Badge](https://img.shields.io/badge/-STATE_KIT-764ABC?style=flat)](https://github.com/Peccopa/state-kit)
-> [![SOCKET.IO Badge](https://img.shields.io/badge/-SOCKET.IO-010101?style=flat)](#)
+> [![NODE.JS Badge](https://img.shields.io/badge/-NODE.JS-5FA04E?style=flat)](#)
 > [![COMPONENT KIT Badge](https://img.shields.io/badge/-COMPONENT_KIT-3178C6?style=flat)](https://github.com/Peccopa/component-kit)
 
 - Multiplayer Team Game
