@@ -47,7 +47,7 @@
     </td>
     <td width="330" valign="top">
 
-    <h1 align="center">
+  <h1 align="center">
       <a href="https://github.com/Peccopa/component-kit">Component Kit</a>
     </h1>
 
