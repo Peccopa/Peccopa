@@ -39,7 +39,7 @@
 <table width="100%" align="center">
   <tr>
     <td width="670" align="center">
-      <a href="https://github.com/mvavilin/Nova-Codenames">
+      <a href="https://github.com/Peccopa/Nova-Codenames">
         <img
           width="640"
           height="360"
@@ -51,7 +51,7 @@
     <td width="330" valign="top">
 
 <h1 align="center">
-  <a href="https://github.com/mvavilin/Nova-Codenames">
+  <a href="https://github.com/Peccopa/Nova-Codenames">
     Nova Codenames
   </a>
 </h1>
