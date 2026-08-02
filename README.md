@@ -40,7 +40,9 @@
 <table width="100%" align="center">
   <tr>
     <td width="670" align="center">
-      <img width="640" height="360" alt="component-kit" src="https://github.com/user-attachments/assets/d6e883f6-919a-438b-af35-4c700da3d8d2" />
+      <a href="https://github.com/Peccopa/component-kit">
+  <img width="640" height="360" alt="component-kit-small" src="https://github.com/user-attachments/assets/bcdbf4d1-754b-4724-8e6a-23b28a93561d" />
+</a>
     </td>
     <td width="330" valign="top">
 
