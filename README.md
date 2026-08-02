@@ -49,7 +49,7 @@
 
   <h1 align="center">
       <a href="https://github.com/Peccopa/component-kit">Component Kit</a>
-    </h1>
+  </h1>
 
 > Reusable UI component library
 >
@@ -68,6 +68,37 @@
     </tr>
   </table>
 
+---
+<table width="100%" align="center">
+  <tr>
+    <td width="670" align="center">
+      <a href="https://github.com/Peccopa/state-kit">
+        <img width="640" height="360" alt="state-kit" src="https://github.com/user-attachments/assets/6b43116f-3ba4-4f52-8d28-3ff9bab7f4c5" />
+      </a>
+    </td>
+    <td width="330" valign="top">
+
+  <h1 align="center">
+      <a href="https://github.com/Peccopa/state-kit">State Kit</a>
+    </h1>
+
+> Lightweight application state management library
+>
+> [![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
+> [![STATE Badge](https://img.shields.io/badge/-STATE-9C27B0?style=flat)](#)
+> [![REDUCERS Badge](https://img.shields.io/badge/-REDUCERS-673AB7?style=flat)](#)
+> [![MIDDLEWARE Badge](https://img.shields.io/badge/-MIDDLEWARE-FF9800?style=flat)](#)
+> [![VITEST Badge](https://img.shields.io/badge/-VITEST-6E9F18?style=flat)](#)
+> [![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat)](#)
+
+- Predictable State Management
+- Reducers • Middleware • Afterware
+- Async Dispatch Queue
+- TypeScript • Vitest • tsup • npm
+
+    </td>
+    </tr>
+  </table>
 ---
 
 ## [fullstack: pethub (in progress)](https://github.com/Peccopa/PetHub)
