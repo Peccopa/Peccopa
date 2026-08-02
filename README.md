@@ -34,6 +34,41 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133&link=mailto:orbital.logistics@yandex.ru)](mailto:orbital.logistics@yandex.ru)
 [![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
 
+
+---
+
+
+
+
+<table width="100%" align="center">
+  <tr>
+    <td width="670" align="center">
+      <img width="640" height="360" alt="component-kit" src="https://github.com/user-attachments/assets/d6e883f6-919a-438b-af35-4c700da3d8d2" />
+    </td>
+    <td width="330" valign="top">
+
+<h1 align="center">
+  <a href="https://github.com/Peccopa/component-kit">Component Kit</a>
+</h1>
+
+> Reusable UI component library
+> 
+> [![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
+> [![DOM Badge](https://img.shields.io/badge/-DOM-E34F26?style=flat)](#)
+> [![EVENTS Badge](https://img.shields.io/badge/-EVENTS-FF9800?style=flat)](#)
+> [![VITEST Badge](https://img.shields.io/badge/-VITEST-6E9F18?style=flat)](#)
+> [![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat)](#)
+> [![JAVASCRIPT Badge](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat)](#)
+
+- Reusable UI Components
+- DOM API • Events • Styling
+- Component Architecture
+- TypeScript • Vitest • tsup • npm
+
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## [kit: Component Kit](https://github.com/Peccopa/component-kit)
