@@ -69,11 +69,12 @@
   </table>
 
 ---
+
 <table width="100%" align="center">
   <tr>
     <td width="670" align="center">
       <a href="https://github.com/Peccopa/state-kit">
-        <img width="640" height="360" alt="state-kit" src="https://github.com/user-attachments/assets/6b43116f-3ba4-4f52-8d28-3ff9bab7f4c5" />
+        <img width="640" height="360" alt="state-kit" src="https://github.com/user-attachments/assets/af2406fb-01df-47c2-9c6f-b0c1f82e1021" />
       </a>
     </td>
     <td width="330" valign="top">
