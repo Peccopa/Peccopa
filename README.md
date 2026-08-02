@@ -34,7 +34,44 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133&link=mailto:orbital.logistics@yandex.ru)](mailto:orbital.logistics@yandex.ru)
 [![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
 
+---
 
+<table width="100%" align="center">
+  <tr>
+    <td width="670" align="center">
+      <a href="https://github.com/mvavilin/Nova-Codenames">
+        <img
+          width="640"
+          height="360"
+          alt="nova-codenames"
+          src="https://github.com/user-attachments/assets/3fd6112a-ec20-4517-bd38-77053f0e6e14"
+        />
+      </a>
+    </td>
+    <td width="330" valign="top">
+
+<h1 align="center">
+  <a href="https://github.com/mvavilin/Nova-Codenames">
+    Nova Codenames
+  </a>
+</h1>
+
+> Multiplayer technical interview game
+>
+> [![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
+> [![COMPONENT KIT Badge](https://img.shields.io/badge/-COMPONENT_KIT-009688?style=flat)](#)
+> [![STATE KIT Badge](https://img.shields.io/badge/-STATE_KIT-9C27B0?style=flat)](#)
+> [![SOCKET.IO Badge](https://img.shields.io/badge/-SOCKET.IO-010101?style=flat)](#)
+> [![POSTGRESQL Badge](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=flat)](#)
+> [![TURBO Badge](https://img.shields.io/badge/-TURBO-EF4444?style=flat)](#)
+
+- Multiplayer Team Game
+- Real-time Collaboration
+- Custom UI & State Libraries
+- Node.js • Socket.IO • PostgreSQL
+    </td>
+  </tr>
+</table>
 
 ---
 
