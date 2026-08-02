@@ -35,20 +35,21 @@
 [![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
 
 
+
 ---
 
 <table width="100%" align="center">
   <tr>
     <td width="670" align="center">
       <a href="https://github.com/Peccopa/component-kit">
-  <img width="640" height="360" alt="component-kit-small" src="https://github.com/user-attachments/assets/bcdbf4d1-754b-4724-8e6a-23b28a93561d" />
-</a>
+        <img width="640" height="360" alt="component-kit" src="https://github.com/user-attachments/assets/6b43116f-3ba4-4f52-8d28-3ff9bab7f4c5" />
+      </a>
     </td>
     <td width="330" valign="top">
 
-<h1 align="center">
-  <a href="https://github.com/Peccopa/component-kit">Component Kit</a>
-</h1>
+    <h1 align="center">
+      <a href="https://github.com/Peccopa/component-kit">Component Kit</a>
+    </h1>
 
 > Reusable UI component library
 >
