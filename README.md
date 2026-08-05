@@ -2,60 +2,9 @@
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=for-the-badge&labelColor=20232a&logo=css&logoColor=553d7d)](#)
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=for-the-badge&labelColor=20232a&logo=html5&logoColor=e24c25)](#)-->
 
----
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-3077c4?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=3077c4)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=20232a&logo=react&logoColor=61DAFB)](#)
-[![NodeJS Badge](https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&labelColor=20232a&logo=nodedotjs&logoColor=5FA04E)](#)
-[![Postgre Badge](https://img.shields.io/badge/-Postgre-4169E1?style=for-the-badge&labelColor=20232a&logo=postgresql&logoColor=#4169E1)](#)
-[![State Kit Badge](https://img.shields.io/badge/-State_Kit-764ABC?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=764ABC)](https://github.com/Peccopa/state-kit)
-[![Component Kit Badge](https://img.shields.io/badge/-Component_Kit-3178C6?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=3178C6)](https://github.com/Peccopa/component-kit)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peccopa&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peccopa&theme=react)
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=303133&link=https://t.me/Bnz1905)](https://t.me/Bnz1905)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133&link=mailto:orbital.logistics@yandex.ru)](mailto:orbital.logistics@yandex.ru)
-[![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
-
----
-
-<table width="100%" align="center">
-  <tr>
-    <td width="670" align="center">
-      <a href="https://github.com/Peccopa/Nova-Codenames">
-        <img
-          width="640"
-          height="360"
-          alt="nova-codenames"
-          src="https://github.com/user-attachments/assets/3fd6112a-ec20-4517-bd38-77053f0e6e14"
-        />
-      </a>
-    </td>
-    <td width="330" valign="top">
-
-<h1 align="center">
-  <a href="https://github.com/Peccopa/Nova-Codenames">
-    Nova Codenames
-  </a>
-</h1>
-
-> Multiplayer technical interview game
->
-> [![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
-> [![SOCKET.IO Badge](https://img.shields.io/badge/-SOCKET.IO-010101?style=flat)](#)
-> [![POSTGRESQL Badge](https://img.shields.io/badge/-POSTGRE-4169E1?style=flat)](#)
-> [![STATE KIT Badge](https://img.shields.io/badge/-STATE_KIT-764ABC?style=flat)](https://github.com/Peccopa/state-kit)
-> [![NODE.JS Badge](https://img.shields.io/badge/-NODE-5FA04E?style=flat)](#)
-> [![COMPONENT KIT Badge](https://img.shields.io/badge/-COMPONENT_KIT-3178C6?style=flat)](https://github.com/Peccopa/component-kit)
-
-- Multiplayer Team Game
-- Real-time Collaboration
-- Custom UI & State Libraries
-- Node.js • Socket.IO • PostgreSQL
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -120,6 +69,60 @@
     </td>
     </tr>
   </table>
+
+---
+
+<table width="100%" align="center">
+  <tr>
+    <td width="670" align="center">
+      <a href="https://github.com/Peccopa/Nova-Codenames">
+        <img
+          width="640"
+          height="360"
+          alt="nova-codenames"
+          src="https://github.com/user-attachments/assets/3fd6112a-ec20-4517-bd38-77053f0e6e14"
+        />
+      </a>
+    </td>
+    <td width="330" valign="top">
+
+<h1 align="center">
+  <a href="https://github.com/Peccopa/Nova-Codenames">
+    Nova Codenames
+  </a>
+</h1>
+
+> Multiplayer technical interview game
+>
+> [![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
+> [![SOCKET.IO Badge](https://img.shields.io/badge/-SOCKET.IO-010101?style=flat)](#)
+> [![POSTGRESQL Badge](https://img.shields.io/badge/-POSTGRE-4169E1?style=flat)](#)
+> [![STATE KIT Badge](https://img.shields.io/badge/-STATE_KIT-764ABC?style=flat)](https://github.com/Peccopa/state-kit)
+> [![NODE.JS Badge](https://img.shields.io/badge/-NODE-5FA04E?style=flat)](#)
+> [![COMPONENT KIT Badge](https://img.shields.io/badge/-COMPONENT_KIT-3178C6?style=flat)](https://github.com/Peccopa/component-kit)
+
+- Multiplayer Team Game
+- Real-time Collaboration
+- Custom UI & State Libraries
+- Node.js • Socket.IO • PostgreSQL
+    </td>
+  </tr>
+</table>
+---
+
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-3077c4?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=3077c4)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=20232a&logo=react&logoColor=61DAFB)](#)
+[![NodeJS Badge](https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&labelColor=20232a&logo=nodedotjs&logoColor=5FA04E)](#)
+[![Postgre Badge](https://img.shields.io/badge/-Postgre-4169E1?style=for-the-badge&labelColor=20232a&logo=postgresql&logoColor=#4169E1)](#)
+[![State Kit Badge](https://img.shields.io/badge/-State_Kit-764ABC?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=764ABC)](https://github.com/Peccopa/state-kit)
+[![Component Kit Badge](https://img.shields.io/badge/-Component_Kit-3178C6?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=3178C6)](https://github.com/Peccopa/component-kit)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peccopa&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peccopa&theme=react)
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=303133&link=https://t.me/Bnz1905)](https://t.me/Bnz1905)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133&link=mailto:orbital.logistics@yandex.ru)](mailto:orbital.logistics@yandex.ru)
+[![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
 ---
 
 ## [fullstack: pethub (in progress)](https://github.com/Peccopa/PetHub)
