@@ -2,9 +2,14 @@
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=for-the-badge&labelColor=20232a&logo=css&logoColor=553d7d)](#)
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=for-the-badge&labelColor=20232a&logo=html5&logoColor=e24c25)](#)-->
 
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/-Typescript-3077c4?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=3077c4">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=20232a&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&labelColor=20232a&logo=nodedotjs&logoColor=5FA04E">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&labelColor=20232a&logo=postgresql&logoColor=4169E1">
+  <img src="https://img.shields.io/badge/-State_Kit-764ABC?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=764ABC">
+  <img src="https://img.shields.io/badge/-Component_Kit-3178C6?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=3178C6">
+</p>
 
 ---
 
@@ -105,80 +110,127 @@
 - Real-time Collaboration
 - Custom UI & State Libraries
 - Node.js • Socket.IO • PostgreSQL
-    </td>
+</td>
   </tr>
 </table>
----
-
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-3077c4?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=3077c4)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=20232a&logo=react&logoColor=61DAFB)](#)
-[![NodeJS Badge](https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&labelColor=20232a&logo=nodedotjs&logoColor=5FA04E)](#)
-[![Postgre Badge](https://img.shields.io/badge/-Postgre-4169E1?style=for-the-badge&labelColor=20232a&logo=postgresql&logoColor=#4169E1)](#)
-[![State Kit Badge](https://img.shields.io/badge/-State_Kit-764ABC?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=764ABC)](https://github.com/Peccopa/state-kit)
-[![Component Kit Badge](https://img.shields.io/badge/-Component_Kit-3178C6?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=3178C6)](https://github.com/Peccopa/component-kit)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peccopa&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peccopa&theme=react)
-
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=303133&link=https://t.me/Bnz1905)](https://t.me/Bnz1905)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133&link=mailto:orbital.logistics@yandex.ru)](mailto:orbital.logistics@yandex.ru)
-[![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
----
-
-## [fullstack: pethub (in progress)](https://github.com/Peccopa/PetHub)
-
-[<img src="https://github.com/user-attachments/assets/67882494-adb4-41af-a93b-6b02e491905e">](https://pethub-o2ap.onrender.com/)
-
-> permanently in development
-
-[![TYPEDCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
-[![REACT Badge](https://img.shields.io/badge/-REACT-61DAFB?style=flat)](#)
-[![NODE Badge](https://img.shields.io/badge/-NODE-339933?style=flat)](#)
-[![POSTGRE Badge](https://img.shields.io/badge/-POSTGRE-336791?style=flat)](#)
-
-- https://pethub-o2ap.onrender.com/
-- Frontend | React 19, Webpack 5, Babel |
-- Backend | Node.js (http, fs, https, url), PostgreSQL, dotenv |
-- Database | PostgreSQL |
-- API Integration | Render REST API |
-- Infrastructure | Render.com, Docker, GitHub |
 
 ---
 
-## [rsschool: portfolio](https://github.com/Peccopa/rsschool-portfolio)
+<table width="100%" align="center">
+<tr>
+<td width="300" valign="top">
 
-[<img src="https://github.com/user-attachments/assets/b0b8ff32-d555-4824-a009-3be05f6002fa">](https://peccopa.github.io/rsschool-portfolio)
+<h3 align="center">
+  <a href="https://github.com/Peccopa/PetHub">
+    fullstack: pethub
+  </a>
+</h3>
 
-> Responsive design, popup,  
-> buger, favicon, carousel
+<p align="center">
+  <a href="https://github.com/Peccopa/PetHub">
+    <img 
+      src="https://github.com/user-attachments/assets/67882494-adb4-41af-a93b-6b02e491905e"
+      width="300"
+    />
+  </a>
+</p>
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
-[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#)
-[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
-[![SPA Badge](https://img.shields.io/badge/-SPA-green?style=flat)](#)
+> Fullstack showcase project combining modern frontend, backend and database technologies
+>
+> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat">
+> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat">
+> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat">
+> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat">
 
-- https://peccopa.github.io/rsschool-portfolio
-- _SPA Components, JS Modules, CSS Modules_
-- _no innerHTML, no querySelector, empty \<body\>_
-- _Webpack, Babel, CommitLint, Husky, ESLint,_
+- _Frontend: React 19, Webpack, Babel_
+- _Backend: Node.js, REST API_
+- _Database: PostgreSQL, SQL_
+- _Docker, Render, GitHub_
+
+<h6 align="center">
+  <a href="https://pethub-o2ap.onrender.com/">
+    Project deploy →
+  </a>
+</h6>
+<br/>
+</td>
+
+<td width="300" valign="top">
+
+<h3 align="center">
+  <a href="https://github.com/Peccopa/rsschool-portfolio">
+    rsschool: portfolio
+  </a>
+</h3>
+
+<p align="center">
+  <a href="https://github.com/Peccopa/rsschool-portfolio">
+    <img 
+      src="https://github.com/user-attachments/assets/b0b8ff32-d555-4824-a009-3be05f6002fa"
+      width="300"
+    />
+  </a>
+</p>
+
+> Personal portfolio website with SPA architecture, popup, carousel and responsive layout
+>
+> <img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
+> <img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
+> <img src="https://img.shields.io/badge/-HTML-e24c25?style=flat">
+> <img src="https://img.shields.io/badge/-SPA-green?style=flat">
+
+- _SPA Components, JS Modules_
+- _DOM API restrictions_
+- _Webpack, Babel, ESLint, Husky_
 - _Sass, Canvas, Figma, PixelPerfect_
 
----
+<h6 align="center">
+  <a href="https://peccopa.github.io/rsschool-portfolio">
+    Project deploy →
+  </a>
+</h6>
+<br/>
 
-## [rsschool: christmas-shop](https://github.com/Peccopa/RSSchool-2024Q4-Stage-2/tree/christmas-shop-part3)
+</td>
 
-[<img src="https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop/screen.gif">](https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop)
+<td width="300" valign="top">
 
-> Responsive design, popup, pagination,  
-> buger, favicon, carousel, preloader
+<h3 align="center">
+  <a href="https://github.com/Peccopa/RSSchool-2024Q4-Stage-2/tree/christmas-shop-part3">
+    rsschool: christmas-shop
+  </a>
+</h3>
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
-[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#)
-[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
+<p align="center">
+  <a href="https://github.com/Peccopa/RSSchool-2024Q4-Stage-2/tree/christmas-shop-part3">
+    <img 
+      src="https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop/screen.gif"
+      width="300"
+    />
+  </a>
+</p>
 
-- https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop
-- _SASS, BEM, Webpack, Figma(Pixso), PixelPerfect_
-- _Modules, Classes, JSON_
+> E-commerce page with product cards, pagination, popup, carousel and preloader
+>
+> <img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
+> <img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
+> <img src="https://img.shields.io/badge/-HTML-e24c25?style=flat">
+
+- _SASS, BEM, Webpack_
+- _Figma (Pixso), Pixel Perfect_
+- _JS Modules, Classes, JSON_
+- _Filters, Pagination, Components_
+
+<h6 align="center">
+  <a href="https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop">
+    Project deploy →
+  </a>
+</h6>
+<br/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -494,3 +546,10 @@
 - https://peccopa.github.io/html-css-ru/simple-page/
 
 ---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peccopa&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peccopa&theme=react)
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=303133&link=https://t.me/Bnz1905)](https://t.me/Bnz1905)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133&link=mailto:orbital.logistics@yandex.ru)](mailto:andrey.zharkikh@outlook.com)
+[![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
