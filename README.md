@@ -118,7 +118,7 @@
 
 <table width="100%" align="center">
 <tr>
-<td width="300" valign="top">
+<td width="280" valign="top">
 
 <h3 align="center">
   <a href="https://github.com/Peccopa/PetHub">
@@ -130,7 +130,7 @@
   <a href="https://github.com/Peccopa/PetHub">
     <img 
       src="https://github.com/user-attachments/assets/67882494-adb4-41af-a93b-6b02e491905e"
-      width="300"
+      width="280"
     />
   </a>
 </p>
@@ -155,7 +155,7 @@
 <br/>
 </td>
 
-<td width="300" valign="top">
+<td width="280" valign="top">
 
 <h3 align="center">
   <a href="https://github.com/Peccopa/rsschool-portfolio">
@@ -167,7 +167,7 @@
   <a href="https://github.com/Peccopa/rsschool-portfolio">
     <img 
       src="https://github.com/user-attachments/assets/b0b8ff32-d555-4824-a009-3be05f6002fa"
-      width="300"
+      width="280"
     />
   </a>
 </p>
@@ -193,7 +193,7 @@
 
 </td>
 
-<td width="300" valign="top">
+<td width="280" valign="top">
 
 <h3 align="center">
   <a href="https://github.com/Peccopa/RSSchool-2024Q4-Stage-2/tree/christmas-shop-part3">
@@ -205,7 +205,7 @@
   <a href="https://github.com/Peccopa/RSSchool-2024Q4-Stage-2/tree/christmas-shop-part3">
     <img 
       src="https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop/screen.gif"
-      width="300"
+      width="280"
     />
   </a>
 </p>
