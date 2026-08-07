@@ -416,23 +416,23 @@
 <tr>
 <td width="416" valign="top">
 <p align="center">
-  <a href="https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms">
-    <img width="390" height="219" alt="nonograms" src="https://github.com/user-attachments/assets/66b9ed90-559f-474e-9e55-18577e7f6893" />
+  <a href="https://github.com/Peccopa/peccopa-JSFE2025Q3/tree/rss-puzzle">
+    <img width="390" height="219" alt="puzzle" src="https://github.com/user-attachments/assets/42fa686e-6b4a-4089-bcd4-4528846a0500" />
   </a>
 </p>
 
-> Logic puzzle game with grid-based puzzles and solving algorithms
+> Interactive puzzle game with drag and drop mechanics
 
-<img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
+<!-- <img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
 <img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
 <img src="https://img.shields.io/badge/-HTML-e24c25?style=flat">
 
-- _Algorithms, Game Logic_
-- _DOM Manipulation_
-- _Responsive Design_
+- _Drag & Drop_
+- _Game Logic_
+- _UI Interactions_ -->
 
 <h6 align="center">
-  <a href="#">
+  <a href="https://peccopa.github.io/peccopa-JSFE2025Q3/rss-puzzle/">
     Project deploy →
   </a>
 </h6>
@@ -440,23 +440,23 @@
 
 <td width="416" valign="top">
 <p align="center">
-  <a href="https://github.com/rolling-scopes-school/tasks/tree/master/stage1/tasks/pair-em-up">
+  <a href="https://github.com/Peccopa/peccopa-JSFE2025Q3/tree/pair-em-up">
     <img width="390" height="219" alt="pair" src="https://github.com/user-attachments/assets/35ea4194-3cbd-46c5-8516-4733aff9d9ed" />
   </a>
 </p>
 
 > Memory matching game with interactive cards and game logic
 
-<img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
+<!-- <img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
 <img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
 <img src="https://img.shields.io/badge/-HTML-e24c25?style=flat">
 
 - _DOM Events_
 - _Game Logic_
-- _State Management_
+- _State Management_ -->
 
 <h6 align="center">
-  <a href="#">
+  <a href="https://peccopa.github.io/peccopa-JSFE2025Q3/pair-em-up/">
     Project deploy →
   </a>
 </h6>
@@ -466,23 +466,23 @@
 <tr>
 <td width="416" valign="top">
 <p align="center">
-  <a href="https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/puzzle">
-    <img width="390" height="219" alt="puzzle" src="https://github.com/user-attachments/assets/42fa686e-6b4a-4089-bcd4-4528846a0500" />
+  <a href="https://github.com/Peccopa/RSSchool-2023Q4-Stage-1/tree/nonograms">
+    <img width="390" height="219" alt="nonograms" src="https://github.com/user-attachments/assets/66b9ed90-559f-474e-9e55-18577e7f6893" />
   </a>
 </p>
 
-> Interactive puzzle game with drag and drop mechanics
+> Logic puzzle game with grid-based puzzles and solving algorithms
 
-<img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
+<!-- <img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
 <img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
 <img src="https://img.shields.io/badge/-HTML-e24c25?style=flat">
 
-- _Drag & Drop_
-- _Game Logic_
-- _UI Interactions_
+- _Algorithms, Game Logic_
+- _DOM Manipulation_
+- _Responsive Design_ -->
 
 <h6 align="center">
-  <a href="#">
+  <a href="https://peccopa.github.io/RSSchool-2023Q4-Stage-1/nonograms/">
     Project deploy →
   </a>
 </h6>
@@ -490,25 +490,28 @@
 
 <td width="416" valign="top">
 <p align="center">
-  <a href="https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/async-race">
+  <a href="https://github.com/Peccopa/peccopa-JSFE2025Q3/tree/async-race">
     <img width="390" height="219" alt="race" src="https://github.com/user-attachments/assets/97dc3804-45b2-4222-a447-ef8274a2c956" />
   </a>
 </p>
 
 > Car racing SPA with animations, API and async operations
 
-<img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat">
+<!-- <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat">
 <img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
 <img src="https://img.shields.io/badge/-HTML-e24c25?style=flat">
 
 - _REST API_
 - _Async/Await_
-- _Animations, State Management_
+- _Animations, State Management_ -->
 
-<h6 align="center">
-  <a href="#">
+<!-- <h6 align="center">
+  <a href="https://peccopa.github.io/peccopa-JSFE2025Q3/async-race/">
     Project deploy →
   </a>
+</h6> -->
+<h6 align="center">
+  Deploy Requires API
 </h6>
 </td>
 </tr>
