@@ -148,10 +148,36 @@
 - Vite-based JavaScript template
 - ESLint • Prettier • EditorConfig
 - Vitest • Husky • lint-staged
-- Commitlint • GitHub Actions • Dependabot
+- Commitlint • GitHub Actions
 </td>
 </tr>
 </table>
+
+---
+<p align="center">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peccopa&theme=react"
+  width="540"
+/>
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peccopa&theme=react"
+  height="154"
+/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Typescript-3077c4?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=3077c4">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=20232a&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&labelColor=20232a&logo=nodedotjs&logoColor=5FA04E">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&labelColor=20232a&logo=postgresql&logoColor=4169E1">
+  <img src="https://img.shields.io/badge/-State_Kit-764ABC?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=764ABC">
+  <img src="https://img.shields.io/badge/-Component_Kit-3178C6?style=for-the-badge&labelColor=20232a&logo=typescript&logoColor=3178C6">
+</p>
+
+
+<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=303133&link=https://t.me/Bnz1905)](https://t.me/Bnz1905)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133&link=mailto:orbital.logistics@yandex.ru)](mailto:andrey.zharkikh@outlook.com)
+[![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e) -->
 
 ---
 
@@ -253,6 +279,74 @@
 <br/>
 
 </td> -->
+</tr>
+</table>
+
+---
+
+<table width="100%" align="center">
+<tr>
+<td width="390" valign="top">
+<p align="center">
+  <a href="https://github.com/Peccopa/RSSchool-2024Q4-Stage-2/tree/christmas-shop-part3">
+    <img
+      src="https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop/screen.gif"
+      width="390"
+    />
+  </a>
+</p>
+
+> E-commerce page with product cards, pagination, popup, carousel and preloader
+>
+> <img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
+> <img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
+> <img src="https://img.shields.io/badge/-HTML-e24c25?style=flat">
+
+- _SASS, BEM, Webpack_
+- _Figma (Pixso), Pixel Perfect_
+- _JS Modules, Classes, JSON_
+- _Filters, Pagination, Components_
+
+<h6 align="center">
+  <a href="https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop">
+    Project deploy →
+  </a>
+</h6>
+</td>
+<td width="390" valign="top">
+  <p align="center">
+    <a
+      href="https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/shelter"
+    >
+      <img
+        src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/shelter.gif"
+        width="390"
+      />
+    </a>
+  </p>
+
+  > Responsive design with popup, pagination, burger menu, carousel and
+  preloader
+
+  <img
+    src="https://img.shields.io/badge/-Javascript-f3de61?style=flat"
+  />
+  <img src="https://img.shields.io/badge/-CSS-553d7d?style=flat" />
+  <img src="https://img.shields.io/badge/-HTML-e24c25?style=flat" />
+
+  - _SASS, BEM, Webpack_
+  - _Figma (Pixso), Pixel Perfect_
+  - _JS Modules, Classes, JSON_
+  - _Responsive Design, Components_
+
+  <h6 align="center">
+    <a
+      href="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/index.html"
+    >
+      Project deploy →
+    </a>
+  </h6>
+</td>
 </tr>
 </table>
 
