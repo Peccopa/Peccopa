@@ -391,7 +391,7 @@
   </a>
 </p>
 
-> Responsive design with modal window, carousel and tabs
+> Responsive design with a modal window, interactive carousel, tabs and preloader
 
 <img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
 <img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
@@ -421,7 +421,7 @@
   </a>
 </p>
   
-> Interactive puzzle game with drag and drop mechanics
+> Interactive puzzle game with drag-and-drop mechanics, dynamic pieces and game logic
   
 <h6 align="center">
   <a href="https://peccopa.github.io/peccopa-JSFE2025Q3/rss-puzzle/">
@@ -437,7 +437,7 @@
   </a>
 </p>
   
-> Memory matching game with interactive cards and game logic
+> Memory matching game with interactive cards, pair matching mechanics and game logic
 
 <h6 align="center">
   <a href="https://peccopa.github.io/peccopa-JSFE2025Q3/pair-em-up/">
@@ -455,7 +455,7 @@
   </a>
 </p>
 
-> Logic puzzle game with grid-based puzzles and solving algorithms
+> Logic puzzle game with grid-based puzzles, number patterns and solving algorithms
 
 <h6 align="center">
   <a href="https://peccopa.github.io/RSSchool-2023Q4-Stage-1/nonograms/">
@@ -471,7 +471,7 @@
   </a>
 </p>
 
-> Car racing SPA with animations, API and async operations
+> Car racing SPA with animated cars, REST API integration and asynchronous operations
 
 <h6 align="center">
   Deploy Requires API
