@@ -16,70 +16,6 @@
 <table width="100%" align="center">
   <tr>
     <td width="670" align="center">
-      <a href="https://github.com/Peccopa/component-kit">
-        <img width="640" height="360" alt="component-kit" src="https://github.com/user-attachments/assets/6b43116f-3ba4-4f52-8d28-3ff9bab7f4c5" />
-      </a>
-    </td>  
-    <td width="330" valign="top">
-
-  <h1 align="center">
-      <a href="https://github.com/Peccopa/component-kit">Component Kit</a>
-  </h1>
-
-> Reusable UI component library
->
-> [![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
-> [![DOM Badge](https://img.shields.io/badge/-DOM-E34F26?style=flat)](#)
-> [![EVENTS Badge](https://img.shields.io/badge/-EVENTS-FF9800?style=flat)](#)
-> [![VITEST Badge](https://img.shields.io/badge/-VITEST-6E9F18?style=flat)](#)
-> [![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat)](#)
-> [![JAVASCRIPT Badge](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat)](#)
-
-- Reusable UI Components
-- DOM API • Events • Styling
-- Component Architecture
-- TypeScript • Vitest • tsup • npm
-    </td>
-    </tr>
-  </table>
-
----
-
-<table width="100%" align="center">
-  <tr>
-    <td width="670" align="center">
-      <a href="https://github.com/Peccopa/state-kit">
-        <img width="640" height="360" alt="state-kit" src="https://github.com/user-attachments/assets/af2406fb-01df-47c2-9c6f-b0c1f82e1021" />
-      </a>
-    </td>
-    <td width="330" valign="top">
-
-  <h1 align="center">
-      <a href="https://github.com/Peccopa/state-kit">State Kit</a>
-  </h1>
-
-> Application state management library
->
-> [![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
-> [![STORE Badge](https://img.shields.io/badge/-STORE-9C27B0?style=flat)](#)
-> [![REDUCERS Badge](https://img.shields.io/badge/-REDUCERS-673AB7?style=flat)](#)
-> [![MIDDLEWARE Badge](https://img.shields.io/badge/-MIDDLEWARE-FF9800?style=flat)](#)
-> [![VITEST Badge](https://img.shields.io/badge/-VITEST-6E9F18?style=flat)](#)
-> [![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat)](#)
-
-- Predictable State Management
-- Reducers • Middleware • Afterware
-- Async Dispatch Queue
-- TypeScript • Vitest • tsup • npm
-    </td>
-    </tr>
-  </table>
-
----
-
-<table width="100%" align="center">
-  <tr>
-    <td width="670" align="center">
       <a href="https://github.com/Peccopa/Nova-Codenames">
         <img
           width="640"
@@ -117,10 +53,111 @@
 ---
 
 <table width="100%" align="center">
+  <tr>
+    <td width="670" align="center">
+      <a href="https://github.com/Peccopa/component-kit">
+        <img width="640" height="360" alt="component-kit" src="https://github.com/user-attachments/assets/6b43116f-3ba4-4f52-8d28-3ff9bab7f4c5" />
+      </a>
+    </td>  
+    <td width="330" valign="top">
+
+  <h1 align="center">
+      <a href="https://github.com/Peccopa/component-kit">Component Kit</a>
+  </h1>
+
+> Reusable UI component library
+>
+> [![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
+> [![DOM Badge](https://img.shields.io/badge/-DOM-E34F26?style=flat)](#)
+> [![EVENTS Badge](https://img.shields.io/badge/-EVENTS-FF9800?style=flat)](#)
+> [![VITEST Badge](https://img.shields.io/badge/-VITEST-6E9F18?style=flat)](#)
+> [![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat)](#)
+> [![JAVASCRIPT Badge](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat)](#)
+
+- Reusable UI Components
+- DOM API • Events • Styling
+- Component Architecture
+- TypeScript • Vitest • tsup • npm
+    </td>
+    </tr>
+  </table>
+
+---
+
+<table width="100%" align="center">
+<tr>
+<td width="670" align="center">
+<a href="https://github.com/Peccopa/state-kit">
+<img width="640" height="360" alt="state-kit" src="https://github.com/user-attachments/assets/af2406fb-01df-47c2-9c6f-b0c1f82e1021" />
+</a>
+</td>
+<td width="330" valign="top">
+
+<h1 align="center">
+    <a href="https://github.com/Peccopa/state-kit">State Kit</a>
+</h1>
+
+> Application state management library
+>
+> [![TYPESCRIPT Badge](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat)](#)
+> [![STORE Badge](https://img.shields.io/badge/-STORE-9C27B0?style=flat)](#)
+> [![REDUCERS Badge](https://img.shields.io/badge/-REDUCERS-673AB7?style=flat)](#)
+> [![MIDDLEWARE Badge](https://img.shields.io/badge/-MIDDLEWARE-FF9800?style=flat)](#)
+> [![VITEST Badge](https://img.shields.io/badge/-VITEST-6E9F18?style=flat)](#)
+> [![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat)](#)
+
+- Predictable State Management
+- Reducers • Middleware • Afterware
+- Async Dispatch Queue
+- TypeScript • Vitest • tsup • npm
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%" align="center">
+<tr>
+  <td width="670" align="center">
+    <a href="https://github.com/Peccopa/js-starter-pack">
+      <img
+        width="640"
+        height="360"
+        alt="js-starter-pack"
+        src="https://github.com/user-attachments/assets/508fd705-52d2-4475-bcab-57c927424721"
+      />
+    </a>
+  </td>
+
+  <td width="330" valign="top">
+    <h1 align="center">
+      <a href="https://github.com/Peccopa/js-starter-pack">
+        JS Starter Pack
+      </a>
+    </h1>
+
+> Frontend project template with preconfigured development tools
+>
+> [![VITE Badge](https://img.shields.io/badge/-VITE-646CFF?style=flat)](#)
+> [![ESLINT Badge](https://img.shields.io/badge/-ESLINT-4B32C3?style=flat)](#)
+> [![PRETTIER Badge](https://img.shields.io/badge/-PRETTIER-F7B93E?style=flat)](#)
+> [![VITEST Badge](https://img.shields.io/badge/-VITEST-6E9F18?style=flat)](#)
+> [![HUSKY Badge](https://img.shields.io/badge/-HUSKY-484848?style=flat)](#)
+> [![GITHUB ACTIONS Badge](https://img.shields.io/badge/-GITHUB_ACTIONS-2088FF?style=flat)](#)
+
+- Vite-based JavaScript template
+- ESLint • Prettier • EditorConfig
+- Vitest • Husky • lint-staged
+- Commitlint • GitHub Actions • Dependabot
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%" align="center">
 <tr>
 <td width="390" valign="top">
-
-
 
 <p align="center">
   <a href="https://github.com/Peccopa/PetHub">
@@ -190,7 +227,7 @@
 
 <p align="center">
   <a href="https://github.com/Peccopa/RSSchool-2024Q4-Stage-2/tree/christmas-shop-part3">
-    <img 
+    <img
       src="https://peccopa.github.io/RSSchool-2024Q4-Stage-2/christmas-shop/screen.gif"
       width="280"
     />
