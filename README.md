@@ -19,7 +19,7 @@
       <a href="https://github.com/Peccopa/component-kit">
         <img width="640" height="360" alt="component-kit" src="https://github.com/user-attachments/assets/6b43116f-3ba4-4f52-8d28-3ff9bab7f4c5" />
       </a>
-    </td>
+    </td>  
     <td width="330" valign="top">
 
   <h1 align="center">
@@ -120,11 +120,7 @@
 <tr>
 <td width="390" valign="top">
 
-<h3 align="center">
-  <a href="https://github.com/Peccopa/PetHub">
-    fullstack: pethub
-  </a>
-</h3>
+
 
 <p align="center">
   <a href="https://github.com/Peccopa/PetHub">
@@ -152,16 +148,9 @@
     Project deploy →
   </a>
 </h6>
-<br/>
 </td>
 
 <td width="390" valign="top">
-
-<h3 align="center">
-  <a href="https://github.com/Peccopa/rsschool-portfolio">
-    rsschool: portfolio
-  </a>
-</h3>
 
 <p align="center">
   <a href="https://github.com/Peccopa/rsschool-portfolio">
@@ -189,8 +178,6 @@
     Project deploy →
   </a>
 </h6>
-<br/>
-
 </td>
 
 <!-- <td width="280" valign="top">
