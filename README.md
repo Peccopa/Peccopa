@@ -420,17 +420,9 @@
     <img width="390" height="219" alt="puzzle" src="https://github.com/user-attachments/assets/42fa686e-6b4a-4089-bcd4-4528846a0500" />
   </a>
 </p>
-
+  
 > Interactive puzzle game with drag and drop mechanics
-
-<!-- <img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
-<img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
-<img src="https://img.shields.io/badge/-HTML-e24c25?style=flat">
-
-- _Drag & Drop_
-- _Game Logic_
-- _UI Interactions_ -->
-
+  
 <h6 align="center">
   <a href="https://peccopa.github.io/peccopa-JSFE2025Q3/rss-puzzle/">
     Project deploy →
@@ -444,16 +436,8 @@
     <img width="390" height="219" alt="pair" src="https://github.com/user-attachments/assets/35ea4194-3cbd-46c5-8516-4733aff9d9ed" />
   </a>
 </p>
-
+  
 > Memory matching game with interactive cards and game logic
-
-<!-- <img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
-<img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
-<img src="https://img.shields.io/badge/-HTML-e24c25?style=flat">
-
-- _DOM Events_
-- _Game Logic_
-- _State Management_ -->
 
 <h6 align="center">
   <a href="https://peccopa.github.io/peccopa-JSFE2025Q3/pair-em-up/">
@@ -473,14 +457,6 @@
 
 > Logic puzzle game with grid-based puzzles and solving algorithms
 
-<!-- <img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
-<img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
-<img src="https://img.shields.io/badge/-HTML-e24c25?style=flat">
-
-- _Algorithms, Game Logic_
-- _DOM Manipulation_
-- _Responsive Design_ -->
-
 <h6 align="center">
   <a href="https://peccopa.github.io/RSSchool-2023Q4-Stage-1/nonograms/">
     Project deploy →
@@ -497,19 +473,6 @@
 
 > Car racing SPA with animations, API and async operations
 
-<!-- <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat">
-<img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
-<img src="https://img.shields.io/badge/-HTML-e24c25?style=flat">
-
-- _REST API_
-- _Async/Await_
-- _Animations, State Management_ -->
-
-<!-- <h6 align="center">
-  <a href="https://peccopa.github.io/peccopa-JSFE2025Q3/async-race/">
-    Project deploy →
-  </a>
-</h6> -->
 <h6 align="center">
   Deploy Requires API
 </h6>
