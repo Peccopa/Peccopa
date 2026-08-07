@@ -364,7 +364,7 @@
   </a>
 </p>
 
-> Responsive design with modal window, preloader, carousel and tabs
+> Responsive design with modal window, preloader, carousel, tabs and login form
 
 <img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
 <img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
