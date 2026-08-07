@@ -352,36 +352,79 @@
 
 ---
 
-## [rsschool: shelter](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/shelter)
+<table width="100%" align="center">
+<tr>
+<td width="390" valign="top">
+<p align="center">
+  <a href="https://github.com/Peccopa/RSSchool-2023Q4-Stage-1/tree/coffee-house-week3">
+    <img
+      src="https://peccopa.github.io/RSSchool-2023Q4-Stage-1/coffee-house/coffee-house.gif"
+      width="390"
+    />
+  </a>
+</p>
 
-[<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/shelter.gif">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/index.html)
+> Responsive design with modal window, preloader, carousel and tabs
 
-> Responsive design, popup, pagination,  
-> buger, favicon, carousel, preloader
+<img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
+<img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
+<img src="https://img.shields.io/badge/-HTML-e24c25?style=flat">
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
-[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#)
-[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
+- _Figma (Pixso), Pixel Perfect_
+- _LocalStorage_
+- _Responsive Design, Components_
 
-- https://peccopa.github.io/RSSchool-2023Q2-Stage-0/shelter/index.html
-- _SASS, BEM, Webpack, Figma(Pixso), PixelPerfect_
-- _Modules, Classes, JSON_
+<h6 align="center">
+  <a href="https://peccopa.github.io/RSSchool-2023Q4-Stage-1/coffee-house/pages/main">
+    Project deploy →
+  </a>
+</h6>
+</td>
+
+<td width="390" valign="top">
+<p align="center">
+  <a href="https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/library-part3">
+    <img
+      src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/library/library.gif"
+      width="390"
+    />
+  </a>
+</p>
+
+> Responsive design with modal window, carousel and tabs
+
+<img src="https://img.shields.io/badge/-Javascript-f3de61?style=flat">
+<img src="https://img.shields.io/badge/-CSS-553d7d?style=flat">
+<img src="https://img.shields.io/badge/-HTML-e24c25?style=flat">
+
+- _Figma (Pixso), Pixel Perfect_
+- _LocalStorage_
+- _Responsive Design, Components_
+
+<h6 align="center">
+  <a href="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/library/">
+    Project deploy →
+  </a>
+</h6>
+</td>
+</tr>
+</table>
 
 ---
 
-## [rsschool: coffee-house](https://github.com/Peccopa/RSSchool-2023Q4-Stage-1/tree/coffee-house-week3)
+## [rsschool: image-gallery](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/image-gallery)
 
-[<img src="https://peccopa.github.io/RSSchool-2023Q4-Stage-1/coffee-house/coffee-house.gif">](https://peccopa.github.io/RSSchool-2023Q4-Stage-1/coffee-house/pages/main)
+[<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/image-gallery/image-gallery.jpg">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/image-gallery/)
 
-> Responsive design, modal window, preloader,  
-> favicon, carousel, tabs
+> Search images, download images,  
+> autocomplete, modal windows
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#)
 [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
 
-- https://peccopa.github.io/RSSchool-2023Q4-Stage-1/coffee-house/pages/main
-- _Figma(Pixso), PixelPerfect_
+- https://peccopa.github.io/RSSchool-2023Q2-Stage-0/image-gallery/
+- _Images API(Unsplash)_
 - _LocalStorage_
 
 ---
@@ -431,23 +474,6 @@
 
 ---
 
-## [rsschool: image-gallery](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/image-gallery)
-
-[<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/image-gallery/image-gallery.jpg">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/image-gallery/)
-
-> Search images, download images,  
-> autocomplete, modal windows
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
-[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#)
-[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
-
-- https://peccopa.github.io/RSSchool-2023Q2-Stage-0/image-gallery/
-- _Images API(Unsplash)_
-- _LocalStorage_
-
----
-
 ## [rsschool: audio-player](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/audio-player)
 
 [<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/audio-player/audio-player.jpg">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/audio-player/)
@@ -460,23 +486,6 @@
 > [![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
 
 - https://peccopa.github.io/RSSchool-2023Q2-Stage-0/audio-player/
-- _LocalStorage_
-
----
-
-## [rsschool: library](https://github.com/Peccopa/RSSchool-2023Q2-Stage-0/tree/library-part3)
-
-[<img src="https://peccopa.github.io/RSSchool-2023Q2-Stage-0/library/library.gif">](https://peccopa.github.io/RSSchool-2023Q2-Stage-0/library/)
-
-> Responsive design, modal window,  
-> favicon, carousel, tabs
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=flat)](#)
-[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat)](#)
-[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=flat)](#)
-
-- https://peccopa.github.io/RSSchool-2023Q2-Stage-0/library/
-- _Figma(Pixso), PixelPerfect_
 - _LocalStorage_
 
 ---
